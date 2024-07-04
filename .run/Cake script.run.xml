@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Cake script" type="CAKE_CONFIGURATION" factoryName="Cake configuration factory">
+    <option name="additionalArguments" />
+    <option name="scriptPath" value="Cake/build.cake" />
+    <option name="taskName" value="Test" />
+    <method v="2" />
+  </configuration>
+</component>
